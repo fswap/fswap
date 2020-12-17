@@ -15,7 +15,7 @@ My interests lie primarily in the field of Web Application Development, Database
 ```
 In short I am obsessed with idea of solving problems using software.
 ```
-- 👔 I am working as an SDE intern at Sam Media, Kuala Lumpur, Malaysia.
+- 👔 I will be joining Microsoft IDC as a Software Engineer in 2021.
 - :computer: I use C++ for Competitive Programming and JavaScript for Development.
 - 🏅 I am the Chairman of ACM Student Chapter IIT(ISM) Dhanbad.
 - 🎙️ I make Coding related videos on YouTube and love teaching amazing tricks.
